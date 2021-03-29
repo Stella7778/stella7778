@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕! 방가워어
 
 <!--
 **Stella7778/stella7778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
